@@ -1,1 +1,1 @@
-Esse é um projeto que foi desenvolvido durante o evento nlw da rocketseat, projeto esse que é um agregador de links.
+Esse é um projeto que foi desenvolvido durante o evento da rocketseat, mais especificamente o evento nlw no qual eu estive presente na trilha explorer, projeto esse que é um agregador de links.
