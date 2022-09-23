@@ -1,0 +1,1 @@
+Esse é um projeto que foi desenvolvido durante o evento nlw da rocketseat, projeto esse que é um agregador de links.
